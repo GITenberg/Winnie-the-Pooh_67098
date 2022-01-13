@@ -1,0 +1,36 @@
+_repo: Winnie-the-Pooh_67098
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Shepard, Ernest H.
+    gutenberg_agent_id: '54114'
+    url: http://www.gutenberg.org/2009/agents/54114
+creator:
+  author:
+    agent_name: Milne, A. A. (Alan Alexander)
+    aliases:
+    - Miln, Alen Aleksander
+    - Milne, Alan Alexander
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '730'
+    url: http://www.gutenberg.org/2009/agents/730
+    wikipedia: https://en.wikipedia.org/wiki/A._A._Milne
+description: ''
+gutenberg_issued: '2022-01-03'
+identifiers:
+  gutenberg: '67098'
+language: en
+pgterms:marc905: 20211212100751milne
+pgterms:marc906: '1926'
+pgterms:marc907: CA
+production_note: Greg Weeks, Mary Meehan, Iona Vaughan, David T. Jones & the online
+  Distributed Proofreaders Canada team at http://www.pgdpcanada.net
+publication_note: Canada :McClelland & Stewart, Ltd.,1926,pubdate 1926,pubdate 1931.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Winnie-the-Pooh
+url: http://www.gutenberg.org/ebooks/67098
