@@ -5,6 +5,9 @@ contributor:
     agent_name: Shepard, Ernest H.
     gutenberg_agent_id: '54114'
     url: http://www.gutenberg.org/2009/agents/54114
+covers:
+- cover_type: archival
+  image_path: 67098-h/images/cover.jpg
 creator:
   author:
     agent_name: Milne, A. A. (Alan Alexander)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/730
     wikipedia: https://en.wikipedia.org/wiki/A._A._Milne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67098#Winnie-the-Pooh
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67098'
